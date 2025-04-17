@@ -2,7 +2,6 @@
 <a href="https://www.linkedin.com/in/stevenriviere" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-[🔗 LinkedIn](https://www.linkedin.com/in/stevenriviere)
 
 ---
 
@@ -32,5 +31,5 @@ JavaScript · Express.js · Node.js · JWT · SQL · MongoDB
 Git · GitHub · JUnit · IntelliJ · Notion
 
 ---
-
-📫 [Me contacter sur LinkedIn] (<a href="https://www.linkedin.com/in/stevenriviere" target="_blank")
+<a href="https://www.linkedin.com/in/stevenriviere" target="_blank">
+📫 [Me contacter sur LinkedIn] </a>
