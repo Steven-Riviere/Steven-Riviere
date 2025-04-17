@@ -1,5 +1,5 @@
 # Bienvenue à vous ! 👋  
-[🔗 LinkedIn](https://www.linkedin.com/in/steven-riviere) • [🌐 Portfolio](https://monportfolio.com)
+[🔗 LinkedIn](https://www.linkedin.com/in/stevenriviere)
 
 ---
 
