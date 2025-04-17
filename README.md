@@ -33,4 +33,4 @@ Git · GitHub · JUnit · IntelliJ · Notion
 
 ---
 
-📫 [Me contacter sur LinkedIn](https://www.linkedin.com/in/steven-riviere)
+📫 [Me contacter sur LinkedIn] (<a href="https://www.linkedin.com/in/stevenriviere" target="_blank")
