@@ -22,7 +22,10 @@ Toujours motivé pour apprendre, je m’appuie sur mes projets persos et mon sta
 ### 🛠️ Compétences techniques
 
 **Frontend**  
-HTML · CSS · Tailwind CSS · React · TypeScript
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
+</a>
+ · CSS · Tailwind CSS · React · TypeScript
 
 **Backend**  
 JavaScript · Express.js · Node.js · JWT · SQL · MongoDB
