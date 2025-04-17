@@ -35,6 +35,9 @@ Toujours motivé pour apprendre, je m’appuie sur mes projets persos et mon sta
 <a href="https://jwt.io/introduction" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT"/></a>
 <a href="https://sql.sh/" target="_blank"><img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQL"/></a>
 <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+<a href="https://www.oracle.com/fr/java/technologies/javase-documentation.html" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/></a>
+<a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/></a>
+
 
 **Divers**  
 <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a>
