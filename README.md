@@ -1,4 +1,7 @@
-# Bienvenue à vous ! 👋  
+# Bienvenue à vous ! 👋 
+<a href="https://www.linkedin.com/in/stevenriviere" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 [🔗 LinkedIn](https://www.linkedin.com/in/stevenriviere)
 
 ---
