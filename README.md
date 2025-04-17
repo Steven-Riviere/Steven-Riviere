@@ -32,4 +32,5 @@ Git · GitHub · JUnit · IntelliJ · Notion
 
 ---
 <a href="https://www.linkedin.com/in/stevenriviere" target="_blank">
-📫 [Me contacter sur LinkedIn] </a>
+📫 [Me contacter sur LinkedIn] 
+</a>
