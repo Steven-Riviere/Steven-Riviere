@@ -1,16 +1,33 @@
-## Hi there 👋
+# Bienvenue à vous ! 👋  
+[🔗 LinkedIn](https://www.linkedin.com/in/steven-riviere) • [🌐 Portfolio](https://monportfolio.com)
 
-<!--
-**Steven-Riviere/Steven-Riviere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Je suis **développeur web junior** en reconversion, curieux et passionné par le code 👨‍💻  
+Toujours motivé pour apprendre, je m’appuie sur mes projets persos et mon stage pour monter en compétences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 À propos de moi
+
+🌱 **Toujours en apprentissage** : Node.js, Express, React, MongoDB, SQL  
+🚀 **Dernier projet** : Application de gestion de dépenses  
+🔐 **Focus actuel** : Authentification, REST API, sécurité avec JWT  
+🎯 **Objectif** : devenir développeur full stack JS
+
+---
+
+### 🛠️ Compétences techniques
+
+**Frontend**  
+HTML · CSS · Tailwind CSS · React · TypeScript
+
+**Backend**  
+JavaScript · Express.js · Node.js · JWT · SQL · MongoDB
+
+**Divers**  
+Git · GitHub · JUnit · IntelliJ · Notion
+
+---
+
+📫 [Me contacter sur LinkedIn](https://www.linkedin.com/in/steven-riviere)
