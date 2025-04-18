@@ -13,7 +13,7 @@ Toujours motivé pour apprendre, je m’appuie sur mes projets persos et mes exp
 ### 💡 À propos de moi
 
 🌱 **Toujours en apprentissage** : Java & C# (mod collaboratif pour le jeu ECO)
-🔗 [Boite aux Lettres](https://github.com/ton-repo)  
+🔗 [Boite aux Lettres]([https://github.com/ton-repo](https://github.com/Steven-Riviere/Eco-Mod))  
 🚀 **Dernier projet** : Application Java [Suivi des Dépenses](https://github.com/Steven-Riviere/Suivi-Depenses.git) avec interface Swing et graphique camembert (Pie Chart) généré via JFreeChart  
 🔐 **Focus actuel** : Authentification, REST API, sécurité avec JWT  
 🎯 **Objectif** : devenir développeur full stack + +
