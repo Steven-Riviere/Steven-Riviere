@@ -5,7 +5,7 @@
 
 ---
 
-Je suis **développeur web fullstack junior**, curieux et passionné par le code 👨‍💻  
+Je suis **développeur web back end junior**, curieux et passionné par le code 👨‍💻  
 Toujours motivé pour apprendre, je m’appuie sur mes projets persos et mes expériences professionnelles pour monter en compétences.
 
 ---
@@ -18,7 +18,7 @@ Toujours motivé pour apprendre, je m’appuie sur mes projets persos et mes exp
 🔐 **Focus actuel** : Authentification, REST API, sécurité avec JWT  
 🎯 **Objectif** : devenir développeur back-end + +
 
-🎨 Mon coté créatif me permet d'être vigilant sur l'esthétisme des projets afin d'offrir une fluidité dans l'interface pour l'utilisateur.  
+🎨 Mon coté créatif me permet d'être vigilant sur la complexité des projets coté back et une touche de front afin d'offrir une fluidité dans l'interface pour l'utilisateur.  
 
 💻 La tech étant en perpétuelle évolution, j'essaye de me tenir à jour en faisant des petits projets.  
 
