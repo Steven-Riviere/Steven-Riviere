@@ -14,7 +14,7 @@ Toujours motivé pour apprendre, je m’appuie sur mes projets persos et mes exp
 
 🌱 **Toujours en apprentissage** : Java & C# (mod collaboratif pour le jeu ECO)
 🔗 [Boite aux Lettres](https://github.com/Steven-Riviere/Eco-Mod)  
-🚀 **Dernier projet** : Application de simulation de [Prêt Immobilier](https://github.com/Steven-Riviere/AmortizationCalculator.git) déployé avec Azure. Permettant à l'utilisateur d'avoir une idée des montants totaux des intérêts, de l'assurance souscrit  
+🚀 **Dernier projet** : Application de simulation de [Prêt Immobilier](https://github.com/Steven-Riviere/AmortizationCalculator.git) déployé avec Render. Permettant à l'utilisateur d'avoir une idée des montants totaux des intérêts, de l'assurance souscrit  
 🔐 **Focus actuel** : Authentification, REST API, sécurité avec JWT  
 🎯 **Objectif** : devenir développeur back-end + +
 
