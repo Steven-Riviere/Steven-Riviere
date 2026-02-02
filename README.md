@@ -13,7 +13,7 @@ Ouvert à d’autres stacks et environnements techniques.
 
 ### 💡 À propos de moi
 
-🌱 **Remise à niveau ** : Node et React
+🌱 **Remise à niveau ** : Node et React  
 🚀 **Dernier projet** : Application de simulation de [Prêt Immobilier](https://github.com/Steven-Riviere/AmortizationCalculator.git) déployé avec Render. Permettant à l'utilisateur d'avoir une idée des montants totaux des intérêts, de l'assurance souscrit  
 🔐 **Focus actuel** : Authentification, REST API, sécurité avec JWT  
 🎯 **Objectif** : devenir développeur back-end ++
