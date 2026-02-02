@@ -5,7 +5,7 @@
 
 ---
 
-Je suis **développeur web back end**, curieux et passionné par le code 👨‍💻 et orienté logique métier, spécialisé en .NET et Java, avec de bonnes bases en frontend me permettant d’intervenir sur des sujets fullstack selon les besoins.  
+Je suis **développeur web back end**, curieux et passionné par le code 👨‍💻 et orienté logique métier, spécialisé en .NET et Node, avec de bonnes bases en frontend me permettant d’intervenir sur des sujets fullstack selon les besoins.  
 À l’aise avec les API REST, les bases de données SQL et le travail en équipe.
 Ouvert à d’autres stacks et environnements techniques.
 
