@@ -5,7 +5,7 @@
 
 ---
 
-Je suis **développeur web back end junior**, curieux et passionné par le code 👨‍💻 et orienté logique métier, spécialisé en .NET et Java, avec de bonnes bases en frontend me permettant d’intervenir sur des sujets fullstack selon les besoins.  
+Je suis **développeur web back end**, curieux et passionné par le code 👨‍💻 et orienté logique métier, spécialisé en .NET et Java, avec de bonnes bases en frontend me permettant d’intervenir sur des sujets fullstack selon les besoins.  
 À l’aise avec les API REST, les bases de données SQL et le travail en équipe.
 Ouvert à d’autres stacks et environnements techniques.
 
@@ -13,7 +13,7 @@ Ouvert à d’autres stacks et environnements techniques.
 
 ### 💡 À propos de moi
 
-🌱 **Toujours en apprentissage** : Java & C# (mod collaboratif pour le jeu ECO)
+🌱 **Remise à niveau ** : Node et React
 🔗 [Boite aux Lettres](https://github.com/Steven-Riviere/Eco-Mod)  
 🚀 **Dernier projet** : Application de simulation de [Prêt Immobilier](https://github.com/Steven-Riviere/AmortizationCalculator.git) déployé avec Render. Permettant à l'utilisateur d'avoir une idée des montants totaux des intérêts, de l'assurance souscrit  
 🔐 **Focus actuel** : Authentification, REST API, sécurité avec JWT  
