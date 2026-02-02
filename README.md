@@ -14,13 +14,14 @@ Ouvert à d’autres stacks et environnements techniques.
 ### 💡 À propos de moi
 
 🌱 **Remise à niveau ** : Node et React  
+🚀 **Projet en cours ** : Application back-office sur la gestion multi-sites de bars, avec l'authentification JWT, gestion des rôles, suivi du personnel et des produits.  
 🚀 **Dernier projet** : Application de simulation de [Prêt Immobilier](https://github.com/Steven-Riviere/AmortizationCalculator.git) déployé avec Render. Permettant à l'utilisateur d'avoir une idée des montants totaux des intérêts, de l'assurance souscrit  
 🔐 **Focus actuel** : Authentification, REST API, sécurité avec JWT  
 🎯 **Objectif** : devenir développeur back-end ++
 
 🎨 Mon coté créatif me permet d'être vigilant sur la complexité des projets coté back et une touche de front afin d'offrir une fluidité dans l'interface pour l'utilisateur.  
 
-💻 La tech étant en perpétuelle évolution, j'essaye de me tenir à jour en faisant des petits projets.  
+💻 La tech étant en perpétuelle évolution, j'essaye de me tenir à jour en faisant des projets.  
 
 ---
 
@@ -61,5 +62,6 @@ Ouvert à d’autres stacks et environnements techniques.
 <a href="#"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure"/></a>
 
 
----
-📫 [Me contacter sur LinkedIn](https://www.linkedin.com/in/stevenriviere)
+---  
+🎨 [Mon portfolio](https://portfolio-71lb.onrender.com/Home/Index)  
+📫 [Me contacter sur LinkedIn](https://www.linkedin.com/in/stevenriviere)  
