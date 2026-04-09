@@ -5,23 +5,29 @@
 
 ---
 
-Je suis **développeur web back end**, curieux et passionné par le code 👨‍💻 et orienté logique métier, spécialisé en .NET et Node, avec de bonnes bases en frontend me permettant d’intervenir sur des sujets fullstack selon les besoins.  
-À l’aise avec les API REST, les bases de données SQL et le travail en équipe.
-Ouvert à d’autres stacks et environnements techniques.
+Je suis un profil technique avec une expérience en développement logiciel (.NET / Node) et une exposition à des environnements métiers (comptabilité, gestion opérationnelle).
+
+J’accorde une importance particulière à la compréhension des besoins, à la qualité des applications et à la structuration de solutions robustes en lien avec les utilisateurs et les équipes techniques.
 
 ---
 
 ### 💡 À propos de moi
 
-🌱 **Remise à niveau ** : Node et React  
-🚀 **Projet en cours ** : Application back-office sur la gestion multi-sites de bars, avec l'authentification JWT, gestion des rôles, suivi du personnel et des produits.  
-🚀 **Dernier projet** : Application de simulation de [Prêt Immobilier](https://github.com/Steven-Riviere/AmortizationCalculator.git) déployé avec Render. Permettant à l'utilisateur d'avoir une idée des montants totaux des intérêts, de l'assurance souscrit  
-🔐 **Focus actuel** : Authentification, REST API, sécurité avec JWT  
-🎯 **Objectif** : devenir développeur back-end ++
+🌱 Actuellement en veille et montée en compétences sur :
+- Tests logiciels et qualité applicative  
+- Analyse fonctionnelle et compréhension des besoins  
+- Exploitation de données et logique métier  
 
-🎨 Mon coté créatif me permet d'être vigilant sur la complexité des projets coté back et une touche de front afin d'offrir une fluidité dans l'interface pour l'utilisateur.  
+🚀 Projets récents :
+- Application médicale avec règles de scoring et gestion de données patients  
+- Application de gestion multi-sites (authentification JWT, gestion des rôles, API REST)  
+- Application de simulation de prêt immobilier (calculs financiers, génération PDF)  
 
-💻 La tech étant en perpétuelle évolution, j'essaye de me tenir à jour en faisant des projets.  
+🎯 Objectif :
+Travailler sur des rôles en lien avec :
+- la qualité logicielle (QA / test)  
+- l’analyse fonctionnelle (Business Analyst)  
+- l’exploitation et l’analyse de données (Data)  
 
 ---
 
@@ -51,7 +57,7 @@ Ouvert à d’autres stacks et environnements techniques.
 <a href="https://docs.oracle.com/javase/tutorial/uiswing/" target="_blank"><img src="https://img.shields.io/badge/Swing-A6A6A6?style=flat&logo=java&logoColor=black" alt="Swing"/></a>
 <a href="https://github.com/jfree/jfreechart" target="_blank"><img src="https://img.shields.io/badge/JFreeChart-0094D8?style=flat&logo=chart&logoColor=white" alt="JFreeChart"/></a>
 
-**Divers**  
+**Outils & environnements** 
 <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a>
 <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://junit.org/junit5/docs/current/user-guide/" target="_blank"><img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" alt="JUnit"/></a>
@@ -59,9 +65,12 @@ Ouvert à d’autres stacks et environnements techniques.
 <a href="https://www.notion.so/fr-fr/product" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"/></a>
 <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VSCode"/></a>
 <a href="https://visualstudio.microsoft.com/fr/" target="_blank"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" alt="Visual Studio"/></a>
+
+**Cloud & environnements**  
 <a href="#"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/></a>
 
 
 ---  
-🎨 [Mon portfolio](https://portfolio-71lb.onrender.com/Home/Index)  
+
 📫 [Me contacter sur LinkedIn](https://www.linkedin.com/in/stevenriviere)  
