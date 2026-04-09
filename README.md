@@ -57,7 +57,7 @@ Travailler sur des rôles en lien avec :
 <a href="https://docs.oracle.com/javase/tutorial/uiswing/" target="_blank"><img src="https://img.shields.io/badge/Swing-A6A6A6?style=flat&logo=java&logoColor=black" alt="Swing"/></a>
 <a href="https://github.com/jfree/jfreechart" target="_blank"><img src="https://img.shields.io/badge/JFreeChart-0094D8?style=flat&logo=chart&logoColor=white" alt="JFreeChart"/></a>
 
-**Outils & environnements** 
+**Outils & environnements**  
 <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a>
 <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://junit.org/junit5/docs/current/user-guide/" target="_blank"><img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" alt="JUnit"/></a>
