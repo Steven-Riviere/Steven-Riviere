@@ -5,29 +5,38 @@
 
 ---
 
-Je suis un profil technique avec une expérience en développement logiciel (.NET / Node) et une exposition à des environnements métiers (comptabilité, gestion opérationnelle).
+Je suis développeur backend avec une première expérience en développement logiciel, principalement en C# (.NET) et Node.js.  
 
-J’accorde une importance particulière à la compréhension des besoins, à la qualité des applications et à la structuration de solutions robustes en lien avec les utilisateurs et les équipes techniques.
+Je conçois des applications orientées logique métier avec une attention particulière portée à la structuration des données, à la fiabilité des traitements et à la qualité du code.  
+
+Mon parcours m’apporte également une bonne compréhension des besoins métier (comptabilité, gestion), ce qui me permet de développer des solutions adaptées aux usages réels.  
 
 ---
 
 ### 💡 À propos de moi
 
-🌱 Actuellement en veille et montée en compétences sur :
-- Tests logiciels et qualité applicative  
-- Analyse fonctionnelle et compréhension des besoins  
-- Exploitation de données et logique métier  
+🌱 Actuellement en veille et montée en compétences sur :  
+→ Développement backend (.NET, API REST)  
+→ Qualité logicielle (tests, robustesse, maintenabilité)  
+→ Conception d’architectures applicatives   
 
-🚀 Projets récents :
-- Application médicale avec règles de scoring et gestion de données patients  
-- Application de gestion multi-sites (authentification JWT, gestion des rôles, API REST)  
-- Application de simulation de prêt immobilier (calculs financiers, génération PDF)  
+🚀 Projets récents :  
+🔹 Application de gestion multi-sites  
+  → Développement d’API REST avec authentification JWT  
+  → Gestion des rôles et des permissions  
+  → Structuration des flux de données entre front et backend  
 
-🎯 Objectif :
-Travailler sur des rôles en lien avec :
-- la qualité logicielle (QA / test)  
-- l’analyse fonctionnelle (Business Analyst)  
-- l’exploitation et l’analyse de données (Data)  
+🔹 Application de scoring médical  
+  → Conception d’un moteur de règles métier et gestion de données  
+  → Structuration des traitements et logique décisionnelle  
+  
+🔹 Simulation de prêt immobilier  
+  → Implémentation de calculs financiers (mensualités, amortissement)  
+  → Génération de rapports PDF  
+  → Validation des données et logique métier  
+
+🎯 Objectif :  
+Évoluer sur des postes de développement backend (.NET / API / applications métier), au sein d’environnements techniques structurés et orientés qualité.
 
 ---
 
