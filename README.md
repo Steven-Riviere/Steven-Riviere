@@ -5,26 +5,26 @@
 
 ---
 
-Je suis développeur backend avec une première expérience en développement logiciel, principalement en C# (.NET) et Node.js.  
+Je suis développeur fullstack avec une dominante backend (.NET, Node.js), avec une première expérience en développement logiciel.   
 
 Je conçois des applications orientées logique métier avec une attention particulière portée à la structuration des données, à la fiabilité des traitements et à la qualité du code.  
 
-Mon parcours m’apporte également une bonne compréhension des besoins métier (comptabilité, gestion), ce qui me permet de développer des solutions adaptées aux usages réels.  
+Mon parcours en comptabilité me permet de comprendre rapidement les enjeux métier et de concevoir des solutions adaptées aux usages réels.  
 
 ---
 
 ### 💡 À propos de moi
 
 🌱 Actuellement en veille et montée en compétences sur :  
-→ Développement backend (.NET, API REST)  
+→ Développement fullstack (.NET, Node, React)  
 → Qualité logicielle (tests, robustesse, maintenabilité)  
-→ Conception d’architectures applicatives   
+→ Conception d’API REST et architecture applicative    
 
 🚀 Projets récents :  
 🔹 Application de gestion multi-sites  
   → Développement d’API REST avec authentification JWT  
   → Gestion des rôles et des permissions  
-  → Structuration des flux de données entre front et backend  
+  → Structuration des flux backend et logique métier    
 
 🔹 Application de scoring médical  
   → Conception d’un moteur de règles métier et gestion de données  
@@ -36,7 +36,7 @@ Mon parcours m’apporte également une bonne compréhension des besoins métier
   → Validation des données et logique métier  
 
 🎯 Objectif :  
-Évoluer sur des postes de développement backend (.NET / API / applications métier), au sein d’environnements techniques structurés et orientés qualité.
+Évoluer sur des postes de développement fullstack à dominante backend (.NET / Node.js), sur des applications métier avec des enjeux de qualité, de performance et de structuration.  
 
 ---
 
